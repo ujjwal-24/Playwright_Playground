@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "performance-job-search-only": {
+      "command": "/workspace/job-apply-mcp/.venv/bin/python",
+      "args": ["/workspace/Playwright_Playground/job-search/mcp_search_only.py"]
+    }
+  }
+}

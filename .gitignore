@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+job-search/browsers/
+job-search/results.json
+job-search/last-search.log
